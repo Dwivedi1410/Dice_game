@@ -1,0 +1,53 @@
+.body{
+    margin:0;
+    text-align: center;
+    background-color: #ABC4AA;
+    font-family: 'Brawler', serif;
+    font-size: 40px;
+}
+.player-1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    position:absolute;
+    right: 900px;
+    top:200px;
+}
+.player-2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    position: absolute;
+    right:345.686px;
+    top:200px;
+}
+.first-dice{
+    width:10%;
+    position: absolute;
+    right:888px;
+    top: 300px;
+}
+.second-dice{
+    width:10%;
+    position: absolute;
+    right:330px;
+    top:300px;
+}
+.game-won{
+   position: absolute;
+   top:500px;
+   right:463px;
+}
+.footer{
+    padding:50px 0 40px 0;
+    background-color: #8ec08c;
+    margin-top: 500px;
+    font-size: 20px;
+
+}
+.social-media{
+    margin:10px 20px;
+    text-decoration: none;
+    color: #245953;
+  }
+.social-media:hover{
+    color: #F6F1F1;
+  }
